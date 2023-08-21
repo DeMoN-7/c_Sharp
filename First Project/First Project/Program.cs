@@ -11,7 +11,10 @@ namespace First_Project
         static void Main(string[] args)
         {
             Console.WriteLine("Jai Shree Ram!!!!!");
-            Console.ReadLine();
+           string a= Console.ReadLine();
+           Console.WriteLine("good morning "+a);
+            string a2 = Console.ReadLine();
+
         }
     }
 }
