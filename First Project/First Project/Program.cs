@@ -10,11 +10,25 @@ namespace First_Project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Jai Shree Ram!!!!!");
-           string a= Console.ReadLine();
-           Console.WriteLine("good morning "+a);
-            string a2 = Console.ReadLine();
+            int[] arr1 
+                = { 1, 2, 3,4,3, 2, 1 };
+            bool tt = true;
+            for (int i = 0; i < arr1.Length / 2; i++)
+            {
+                if (arr1[i] != arr1[arr1.Length - 1 - i])
+                {
+                    tt = false;
+                    break;
+                }
+            }
+            Console.WriteLine("Array 1 is a palindrome: " + tt);
 
         }
     }
 }
+
+/* pallindrome 
+ * array prime    
+ * third largest 
+ * sum of number from string
+ * sort 012*/

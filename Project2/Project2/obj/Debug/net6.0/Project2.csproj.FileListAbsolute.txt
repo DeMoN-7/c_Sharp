@@ -1,0 +1,14 @@
+D:\Github\c_Sharp\Project2\Project2\bin\Debug\net6.0\Project2.exe
+D:\Github\c_Sharp\Project2\Project2\bin\Debug\net6.0\Project2.deps.json
+D:\Github\c_Sharp\Project2\Project2\bin\Debug\net6.0\Project2.runtimeconfig.json
+D:\Github\c_Sharp\Project2\Project2\bin\Debug\net6.0\Project2.dll
+D:\Github\c_Sharp\Project2\Project2\bin\Debug\net6.0\Project2.pdb
+D:\Github\c_Sharp\Project2\Project2\obj\Debug\net6.0\Project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\c_Sharp\Project2\Project2\obj\Debug\net6.0\Project2.AssemblyInfoInputs.cache
+D:\Github\c_Sharp\Project2\Project2\obj\Debug\net6.0\Project2.AssemblyInfo.cs
+D:\Github\c_Sharp\Project2\Project2\obj\Debug\net6.0\Project2.csproj.CoreCompileInputs.cache
+D:\Github\c_Sharp\Project2\Project2\obj\Debug\net6.0\Project2.dll
+D:\Github\c_Sharp\Project2\Project2\obj\Debug\net6.0\refint\Project2.dll
+D:\Github\c_Sharp\Project2\Project2\obj\Debug\net6.0\Project2.pdb
+D:\Github\c_Sharp\Project2\Project2\obj\Debug\net6.0\Project2.genruntimeconfig.cache
+D:\Github\c_Sharp\Project2\Project2\obj\Debug\net6.0\ref\Project2.dll
