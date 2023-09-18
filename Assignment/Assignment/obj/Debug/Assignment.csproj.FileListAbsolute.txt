@@ -1,0 +1,7 @@
+D:\Github\c_Sharp\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\Github\c_Sharp\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\Github\c_Sharp\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\Github\c_Sharp\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+D:\Github\c_Sharp\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\Github\c_Sharp\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\Github\c_Sharp\Assignment\Assignment\obj\Debug\Assignment.pdb
