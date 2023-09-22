@@ -52,6 +52,11 @@
     <Compile Include="q2.cs" />
     <Compile Include="q3.cs" />
     <Compile Include="q4.cs" />
+    <Compile Include="q5.cs" />
+    <Compile Include="q6.cs" />
+    <Compile Include="q7.cs" />
+    <Compile Include="q8.cs" />
+    <Compile Include="q9.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
