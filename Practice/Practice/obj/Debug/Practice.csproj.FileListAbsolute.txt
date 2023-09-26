@@ -1,0 +1,7 @@
+D:\Github\c_Sharp\Practice\Practice\bin\Debug\Practice.exe.config
+D:\Github\c_Sharp\Practice\Practice\bin\Debug\Practice.exe
+D:\Github\c_Sharp\Practice\Practice\bin\Debug\Practice.pdb
+D:\Github\c_Sharp\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+D:\Github\c_Sharp\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+D:\Github\c_Sharp\Practice\Practice\obj\Debug\Practice.exe
+D:\Github\c_Sharp\Practice\Practice\obj\Debug\Practice.pdb
