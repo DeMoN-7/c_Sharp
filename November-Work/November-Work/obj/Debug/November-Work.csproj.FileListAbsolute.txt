@@ -1,0 +1,7 @@
+D:\Github\c_Sharp\November-Work\November-Work\bin\Debug\November-Work.exe.config
+D:\Github\c_Sharp\November-Work\November-Work\bin\Debug\November-Work.exe
+D:\Github\c_Sharp\November-Work\November-Work\bin\Debug\November-Work.pdb
+D:\Github\c_Sharp\November-Work\November-Work\obj\Debug\November-Work.csproj.AssemblyReference.cache
+D:\Github\c_Sharp\November-Work\November-Work\obj\Debug\November-Work.csproj.CoreCompileInputs.cache
+D:\Github\c_Sharp\November-Work\November-Work\obj\Debug\November-Work.exe
+D:\Github\c_Sharp\November-Work\November-Work\obj\Debug\November-Work.pdb

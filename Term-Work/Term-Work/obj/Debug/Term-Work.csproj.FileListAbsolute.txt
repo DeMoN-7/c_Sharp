@@ -1,0 +1,7 @@
+D:\Github\c_Sharp\Term-Work\Term-Work\bin\Debug\Term-Work.exe.config
+D:\Github\c_Sharp\Term-Work\Term-Work\bin\Debug\Term-Work.exe
+D:\Github\c_Sharp\Term-Work\Term-Work\bin\Debug\Term-Work.pdb
+D:\Github\c_Sharp\Term-Work\Term-Work\obj\Debug\Term-Work.csproj.AssemblyReference.cache
+D:\Github\c_Sharp\Term-Work\Term-Work\obj\Debug\Term-Work.csproj.CoreCompileInputs.cache
+D:\Github\c_Sharp\Term-Work\Term-Work\obj\Debug\Term-Work.exe
+D:\Github\c_Sharp\Term-Work\Term-Work\obj\Debug\Term-Work.pdb
