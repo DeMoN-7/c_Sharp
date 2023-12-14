@@ -1,0 +1,7 @@
+D:\Github\c_Sharp\EndSemPractical\EndSemPractice_Delegate\EndSemPractice_Delegate\obj\Debug\EndSemPractice_Delegate.csproj.AssemblyReference.cache
+D:\Github\c_Sharp\EndSemPractical\EndSemPractice_Delegate\EndSemPractice_Delegate\obj\Debug\EndSemPractice_Delegate.csproj.CoreCompileInputs.cache
+D:\Github\c_Sharp\EndSemPractical\EndSemPractice_Delegate\EndSemPractice_Delegate\bin\Debug\EndSemPractice_Delegate.exe.config
+D:\Github\c_Sharp\EndSemPractical\EndSemPractice_Delegate\EndSemPractice_Delegate\bin\Debug\EndSemPractice_Delegate.exe
+D:\Github\c_Sharp\EndSemPractical\EndSemPractice_Delegate\EndSemPractice_Delegate\bin\Debug\EndSemPractice_Delegate.pdb
+D:\Github\c_Sharp\EndSemPractical\EndSemPractice_Delegate\EndSemPractice_Delegate\obj\Debug\EndSemPractice_Delegate.exe
+D:\Github\c_Sharp\EndSemPractical\EndSemPractice_Delegate\EndSemPractice_Delegate\obj\Debug\EndSemPractice_Delegate.pdb
